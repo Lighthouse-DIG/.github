@@ -1,4 +1,4 @@
-# 🌊 Lighthouse-DIG  
+# Lighthouse-DIG  
 ### Disruptive Innovation Group
 
 > **Looking Beyond Conventional**
