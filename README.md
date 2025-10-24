@@ -1,35 +1,33 @@
 # 🌊 Lighthouse-DIG  
 ### Disruptive Innovation Group
 
-> **We turn disruptive ideas into real businesses.**
+> **Looking Beyond Conventional**
 
-Lighthouse-DIG is an **opportunity business builder** operating at the intersection of **academia, startups, and enterprise innovation**.  
-We partner with corporations and institutions to **define, test, and validate** new business solutions — accelerating technology transfer and market validation across emerging industries.
+We help leaders and organizations gain lasting competitive advantages through technological innovation.
 
----
+## Our Mission
+"We assist leaders and their organizations to generate lasting competitive advantages through the use of technological innovation."
 
 ## What We Do
 
-We help organizations move from research and ideas to validated business ventures through:
+### Our Services
+From innovative solutions to MVP development and applied research, we transform ideas into reality with cutting-edge technology and expertise.
 
-- **Opportunity Scouting** — identifying technologies and ventures from universities, startups, and R&D labs.  
-- **Venture Design Sprints** — de-risking assumptions fast with prototypes, pilots, and customer validation.  
-- **Corporate Venturing** — spin-in / spin-out models and co-development strategies.  
-- **AI & ML Product Development** — rapid prototyping and applied model deployment.  
-- **Ecosystem Partnerships** — connecting innovators, founders, and corporate stakeholders.  
-- **Advisory & Enablement** — frameworks for governance, readiness, and innovation capability building.
+- **Innovation Enabler**: We deliver unique solutions with meticulous attention to detail and a customer-centric approach.
+- **MVP Builder**: We create transformative MVP products that shape experiences. Building the future through bold ideas and flawless execution.
+- **Applied Research**: We explore new knowledge, turn discoveries into practical solutions, and collaborate to drive innovation with cutting-edge technology.
 
----
+### Our Expertise
+Cutting-edge technologies and strategic partnerships that drive innovation and deliver exceptional results.
 
-## Focus Areas
-
-- Artificial Intelligence & Machine Learning  
-- Robotics & Automation  
-- Deeptech & Advanced Analytics  
-- Climate & Energy Innovation  
-- Digital Health & MedTech
-
----
+- **Open Innovation**
+- **Quantum**
+- **Robotics**
+- **Scalable AI**
+- **Behavioral systems**
+- **Optimization Modeling**
+- **Prototype Engineering**
+- **Venture Builder**
 
 ## Presence
 
@@ -39,7 +37,6 @@ We help organizations move from research and ideas to validated business venture
 
 We operate globally through our extended network of corporate partners, research institutions, and venture builders.
 
----
 
 ## Let’s Collaborate
 
